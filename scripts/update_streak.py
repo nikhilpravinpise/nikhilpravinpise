@@ -5,12 +5,13 @@ and write it to `output/github-streak.svg` only if content changed.
 
 Run by GitHub Actions daily; keeps a repo-hosted copy that displays reliably.
 """
+import os
 import re
 import sys
 from pathlib import Path
 from urllib.request import urlopen, Request
 
-USERNAME = "N1KH1LT0X1N"
+USERNAME = os.environ.get("GITHUB_REPOSITORY_OWNER", "nikhilpravinpise")
 URLS = [
     f"https://github-readme-streak-stats.herokuapp.com?user={USERNAME}",
     f"https://streak-stats.demolab.com?user={USERNAME}",

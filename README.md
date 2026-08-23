@@ -1,187 +1,242 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&text=Nikhil%20Pise&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&fontSize=70" width="100%" alt="header"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI%2FML+Engineer+%7C+MCP+Developer;2x+Hackathon+Winner+%7C+3x+Finalist;Building+Multi-Agent+AI+Systems" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/N1KH1LT0X1N?tab=followers">
-    <img src="https://img.shields.io/github/followers/N1KH1LT0X1N?style=for-the-badge&color=667eea&labelColor=1a1b27&label=Followers" alt="Followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=N1KH1LT0X1N&style=for-the-badge&color=667eea&labelColor=1a1b27&label=Profile+Views" alt="Profile Views"/>
-  <a href="mailto:nikhilpise2006@gmail.com">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-✓-00d26a?style=for-the-badge&labelColor=1a1b27" alt="Hireable"/>
-  </a>
-  <img src="https://img.shields.io/badge/CodeChef-2★-764ba2?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b27" alt="CodeChef"/>
-</p>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-</p>
-
-```yaml
-name: Nikhil Pravin Pise
-located_in: Mumbai, India
-education:
-  degree: BTech CS (Data Science)
-  university: DJ Sanghvi College of Engineering
-  cgpa: 9.235
-
-current_roles:
-  - ML Co-Committee @ DJS S4DS
-  - Tech-AI Co-Committee @ DJS Nova
-
-focus_areas:
-  - Model Context Protocol (MCP)
-  - Multi-Agent AI Systems
-  - LangGraph & LangChain
-
-achievements:
-  hackathons: "2x Winner | 3x Finalist"
-  robotics: "1st National Runner-up MakeX"
-  astronomy: "3 Asteroid Discoveries (NASA)"
-  scholarship: "INSPIRE - Top 1% Nationally"
-```
-
-<br clear="both"/>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/N1KH1LT0X1N/Pramana.AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N1KH1LT0X1N&repo=Pramana.AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" alt="Pramana.AI"/>
-  </a>
-  <a href="https://github.com/N1KH1LT0X1N/Medium-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N1KH1LT0X1N&repo=Medium-Agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" alt="Medium-Agent"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/N1KH1LT0X1N/SpotifyMCP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N1KH1LT0X1N&repo=SpotifyMCP&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" alt="SpotifyMCP"/>
-  </a>
-  <a href="https://github.com/N1KH1LT0X1N/MediGuard-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N1KH1LT0X1N&repo=MediGuard-Chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" alt="MediGuard-Chatbot"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">🛠️ Tech Arsenal</h2>
-
-<p align="center">
-  <b>🤖 AI/ML & Data Science</b><br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/🔗_LangGraph-667eea?style=for-the-badge" alt="LangGraph"/>
-</p>
-
-<p align="center">
-  <b>🔌 MCP & AI Agents</b><br><br>
-  <img src="https://img.shields.io/badge/Claude-764ba2?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</p>
-
-<p align="center">
-  <b>🌐 Web Development</b><br><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
-
-<p align="center">
-  <b>☁️ DevOps & Tools</b><br><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img width="68%" src="https://github-readme-stats-six-seven.vercel.app/api?username=N1KH1LT0X1N&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="28%" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=N1KH1LT0X1N&layout=donut-vertical&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages"/>
-  <img width="68%" src="https://nirzak-streak-stats.vercel.app/?user=N1KH1LT0X1N&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
-</p>
-
----
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N1KH1LT0X1N&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&area_color=667eea" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation" width="100%"/>
-  <img src="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation" width="100%"/>
-</p>
-
----
-
-<h2 align="center">🏅 Achievements & Recognition</h2>
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--  nikhilpravinpise · profile README · terminal / dithered-ascii build     -->
+<!--  styled after an ASCII editor (asc11) + neofetch profile dumps          -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-| 🏆 | Achievement | Event |
-|:--:|:------------|:------|
-| 🥈 | **2nd Runner-Up** | Technograd 3.0 |
-| 🏅 | **4th Place** | MCP 1st Birthday Hackathon |
-| 🔟 | **Top 10 Finalist** | IIIT Hyderabad Megathon 2025 |
-| 🥈 | **1st National Runner-up** | MakeX World Robotics Competition |
-| ⭐ | **Top 42 Finalist** | Sunhacks 2025 |
-| 🛸 | **3 Asteroid Discoveries** | NASA IASC Asteroid Search Campaign |
-| 🎓 | **INSPIRE Scholarship** | Top 1% Nationally (Class XII) |
-| 📜 | **CS50x, CS50P, CS50AI** | Harvard University |
+```
+░░▒▒▓▓██  ▓▒░  N I K H I L   " T 0 X 1 N "   P I S E  ░▒▓  ██▓▓▒▒░░
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=900&color=00FF9C&center=true&vCenter=true&width=820&height=46&lines=ascii+editor+for+art%2C+video%2C+live+cam...+jk%2C+i+build+AI;ML+Engineer+%7C+MCP+Architect+%7C+Multi-Agent+Systems;2x+Hackathon+Winner+%C2%B7+3x+Finalist+%C2%B7+3x+Asteroid+Hunter;%24+sudo+make+me+a+sandwich+--with-langgraph" alt="typing"/>
+
+<a href="https://www.nikhilpise.me"><img src="https://img.shields.io/badge/RENDER-PORTFOLIO-00FF9C?style=flat-square&labelColor=0d1117&logo=googlechrome&logoColor=00FF9C" alt="portfolio"/></a>
+<a href="https://linkedin.com/in/nikhil-pravin-pise"><img src="https://img.shields.io/badge/EXPORT-LINKEDIN-00b3ff?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=00b3ff" alt="linkedin"/></a>
+<a href="https://huggingface.co/T0X1N"><img src="https://img.shields.io/badge/PUBLISH-%F0%9F%A4%97+T0X1N-FFB000?style=flat-square&labelColor=0d1117" alt="hf"/></a>
+<a href="mailto:nikhilpise2006@gmail.com"><img src="https://img.shields.io/badge/UPGRADE-HIRE+ME-ff4b4b?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=ff4b4b" alt="email"/></a>
+<img src="https://komarev.com/ghpvc/?username=nikhilpravinpise&style=flat-square&color=00FF9C&label=RENDERS" alt="views"/>
 
 </div>
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
+## `$ neofetch`
 
-<p align="center">
-  <a href="https://linkedin.com/in/nikhil-pravin-pise">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://nikhilpise.me">
-    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="mailto:nikhilpise2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>&nbsp;
-  <a href="https://huggingface.co/T0X1N">
-    <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
-  </a>
-</p>
+<!-- ASCII core on the left, system dump on the right — halftone/dither vibe -->
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <b>🚀 Building Tomorrow's AI Solutions Today 🚀</b>
-</p>
+<pre>
+          ░▒▓█▓▒░
+       ▒▓█████████▓▒
+     ▓███▀▀░░░░▀▀███▓
+    ██▀  ░▒▓██▓▒░  ▀██
+   ██  ▒▓█▀    ▀█▓▒  ██
+  ██  ▓█   ▄▄▄▄   █▓  ██
+  █▌ ▐█   █▓▒▒▓█   █▌ ▐█
+  █▌ ▐█   █▒░░▒█   █▌ ▐█
+  ██  ▓█   ▀▀▀▀   █▓  ██
+   ██  ▒▓█▄    ▄█▓▒  ██
+    ██▄  ░▒▓██▓▒░  ▄██
+     ▓███▄▄░░░░▄▄███▓
+       ▒▓█████████▓▒
+          ░▒▓█▓▒░
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+  ▓▓▒▒░░ FX: NOISE FIELD
+  ████░░ STYLE: HALFTONE
+</pre>
+
+</td>
+<td>
+
+<pre>
+<b>nikhil@toxin</b>
+───────────────────────────────────────────
+ OS ........ Arch (btw) · Win 11 · Android
+ Host ...... DJ Sanghvi College of Engg.
+ Kernel .... B.Tech CSE — Data Science (Pre-Final Year)
+ Uptime .... 5 yrs on GitHub · since '21
+ CGPA ...... 9.235 / 10  [████████▒░]
+ Shell ..... Python · TypeScript · Rust · C/C++ · SQL
+ WM ........ LangGraph · LangChain · MCP · RAG
+ Role ...... Head of ML @ DJS S4DS
+ Intern .... ML Research @ IIT Guwahati
+ Focus ..... Multi-Agent AI · MCP Servers
+ IDE ....... VS Code · Cursor · Jupyter
+ Hobbies ... Hackathons · Robotics · Asteroids
+ Loc ....... Mumbai, India  (UTC+5:30)
+───────────────────────────────────────────
+ HuggingFace: T0X1N     live stats: see `htop` ↓
+
+ <b>colors</b>  ▒▒ ▓▓ ██ 🟩 🟨 🟦 🟥 🟪 ⬛ ⬜
+</pre>
+
+</td>
+</tr>
+</table>
+
+> _"Where each project is an intelligent agent and every line of code builds toward the future."_ — straight off the [portfolio](https://www.nikhilpise.me)
+
+---
+
+## `$ cat ~/whoami.md`
+
+```yaml
+identity:
+  name:      Nikhil Pravin Pise
+  aka:       T0X1N
+  role:      ML Engineer & AI Agent Builder
+  status:    AVAILABLE  # seeking ML Dev / AI Engineering roles
+building:
+  - Model Context Protocol (MCP) servers for Claude Desktop
+  - Multi-agent systems with LangGraph + tool-calling
+  - RAG pipelines that actually retrieve the right thing
+researching:
+  - Federated-learning intrusion detection @ IIT Guwahati
+fun_fact: "Co-discovered 3 asteroids with NASA's IASC campaign 🛸"
+```
+
+---
+
+## `$ cat experience.log`
+
+```
+[2026-06] Summer ML Research Intern — IIT Guwahati, Guwahati        (Jun 2026 – Present)
+  > Investigated the convergence of a federated-learning intrusion-detection method,
+    reproduced its behavior, and uncovered a mathematical flaw through 120 diagnostic
+    experiments; validated a correction across real-world network-security datasets.
+  > Extended the method to address privacy and server-knowledge limitations, then
+    evaluated it against 19 competing approaches across 960 cloud experiments,
+    backed by statistically rigorous analysis and an automated reproducibility framework.
+
+[2026-07] Head of ML — DJS S4DS, Mumbai                              (Jul 2026 – Present)
+  > Leading the ML vertical — technical direction, mentoring, and project oversight.
+
+[2025-09] ML Co-Committee Member — DJS S4DS, Mumbai            (Sep 2025 – Jul 2026)
+  > FIFA Player Analytics: feature-engineered 7 FIFA seasons (2017-2023) into
+    explainable wage-prediction models and interactive player-valuation dashboards.
+  > Designed a hard-difficulty Extract 4.0 challenge with edge-case datasets and an
+    objective rubric; supported DataHack 4.0 — 1,609+ registrations, 646+ teams
+    across Core ML, Agentic AI, Gen AI, and XAI tracks.
+```
+
+---
+
+## `$ cat skills.txt | sort`
+
+<div align="center">
+
+`LANGUAGES` &nbsp;
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF9C)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00FF9C)
+![C++](https://img.shields.io/badge/C/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00FF9C)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00FF9C)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00FF9C)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=00FF9C)
+
+`AI / ML` &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=FFB000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FFB000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=FFB000)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=FFB000)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=FFB000)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-0d1117?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=FFB000)
+
+`AGENTS / MCP` &nbsp;
+![Claude](https://img.shields.io/badge/Claude-0d1117?style=flat-square&logo=anthropic&logoColor=00b3ff)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=00b3ff)
+![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat-square&logoColor=00b3ff)
+![MCP](https://img.shields.io/badge/MCP-0d1117?style=flat-square&logoColor=00b3ff)
+
+`WEB / OPS` &nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=ff4b4b)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ff4b4b)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=ff4b4b)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ff4b4b)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=ff4b4b)
+
+</div>
+
+---
+
+## `$ git log --oneline --grep="achievement"`
+
+```log
+* 7b1a3f2  🥈  1st National Runner-up      — MakeX World Robotics Competition
+* a4c9e01  🛸  3x Asteroid Discoveries     — NASA IASC Asteroid Search Campaign
+* f02d8b7  🎓  INSPIRE Scholarship          — Top 1% Nationally (Class XII)
+* c6e4a19  🥉  2nd Runner-up                — Technograd 4.0 (DJS NSDC, AI-ML)
+* 9d3b7c5  🔟  Top 10 Finalist             — Megathon 2025, IIIT Hyderabad
+* 21f8a60  4️⃣  4th Place                   — MCP 1st Birthday Hackathon
+* e7a02d4  🏅  Top 42 Finalist            — Sunhacks 2025
+* b3c91f8  🎖️  CS50x · CS50P · CS50AI       — Harvard University
+* 04a7e2d  📜  ML Specialization           — Stanford Online (Andrew Ng)
+* HEAD     ⭐  2★ CodeChef · 10+ contests  — and counting...
+```
+
+---
+
+## `$ htop --user=nikhilpravinpise`
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/nikhilpravinpise/nikhilpravinpise/main/output/metrics.svg" alt="metrics dashboard"/>
+
+<img width="98%" src="https://raw.githubusercontent.com/nikhilpravinpise/nikhilpravinpise/output/github-streak.svg" alt="streak"/>
+
+<img width="98%" src="https://raw.githubusercontent.com/nikhilpravinpise/nikhilpravinpise/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph"/>
+
+</div>
+
+---
+
+## `$ ./render_snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilpravinpise/nikhilpravinpise/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilpravinpise/nikhilpravinpise/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/nikhilpravinpise/nikhilpravinpise/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## `$ ./connect.sh --all`
+
+<div align="center">
+
+| stream | endpoint |
+|:------:|:---------|
+| 🌐 | [`nikhilpise.me`](https://www.nikhilpise.me) |
+| 💼 | [`in/nikhil-pravin-pise`](https://linkedin.com/in/nikhil-pravin-pise) |
+| 🤗 | [`huggingface.co/T0X1N`](https://huggingface.co/T0X1N) |
+| 📧 | [`nikhilpise2006@gmail.com`](mailto:nikhilpise2006@gmail.com) |
+| 📄 | [`resume.pdf`](https://drive.google.com/file/d/1XaNb-tvArvTUApwV8j0e7jS-6VZ5vCYo/view?usp=drive_link) |
+| 📝 | [`blog @ nikhilpise.me/blog`](https://www.nikhilpise.me/blog) |
+
+</div>
+
+---
+
+<!-- asc11-style editor status bar / metadata sidebar -->
+<div align="center">
+
+```
+┌─[ RENDER STATUS ]──────────────────────────────────────────────────────┐
+  FMT    ASCII CANVAS          AR     16:9 → ∞              FX    NOISE
+  STYLE  HALFTONE / NEOFETCH   BG     #0d1117              RES   DYNAMIC
+  FONT   JETBRAINS MONO        FPS    55                   MODE  MATRIX GREEN
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+<sub><code>// rendered live · built with obsession and dithered pixels · © 2026 Nikhil Pise</code></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00FF9C,100:FFB000&section=footer" width="100%"/>
+
+</div>
