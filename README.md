@@ -29,6 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhil--pravin--pise-0d1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/nikhil-pravin-pise)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-T0X1N-0d1117?style=for-the-badge&logoColor=2DD4BF)](https://huggingface.co/T0X1N)
 [![Email](https://img.shields.io/badge/Email-Open_to_Work-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF)](mailto:nikhilpise2006@gmail.com)
+[![Live Terminal](https://img.shields.io/badge/%E2%9A%A1_Live_Terminal-nikhilpravinpise.github.io-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=2DD4BF)](https://nikhilpravinpise.github.io)
 
 <br>
 
