@@ -10,13 +10,7 @@
 
 <h3><code>nikhil@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./photo-ascii.svg" width="380" alt="Nikhil - ASCII avatar portrait"/></td>
-<td width="24"></td>
-<td valign="top"><img src="./wordmark.svg" width="480" alt="NIKHIL - 3D ASCII wordmark"/></td>
-</tr>
-</table>
+<img src="./photo-ascii.svg" width="320" align="top" alt="Nikhil - ASCII avatar portrait"/> <img src="./wordmark.svg" width="440" align="top" alt="NIKHIL - 3D ASCII wordmark"/>
 
 <br>
 <br>
