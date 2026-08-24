@@ -1,12 +1,22 @@
 <div align="center">
 
-<!-- hero: 3D extruded ASCII wordmark, rocks gently on its vertical axis
-     (SMIL flipbook animation, GitHub's <img> sandbox runs this fine).
-     regenerate: python scripts/make_wordmark_svg.py --out wordmark.svg -->
+<!-- hero: ASCII-art avatar portrait (left - Pillow grayscale/contrast/gamma
+     density mapping of the live GitHub avatar, typewriter row-by-row
+     reveal) beside the 3D extruded ASCII wordmark (right - rocks gently on
+     its vertical axis via SMIL flipbook). GitHub's <img> sandbox runs SMIL
+     and CSS animation-on-load fine, just never JS.
+     regenerate: python scripts/fetch_avatar.py && python scripts/render_photo_ascii.py
+                 python scripts/make_wordmark_svg.py --out wordmark.svg -->
 
 <h3><code>nikhil@github ~ $ whoami</code></h3>
 
-<img src="./wordmark.svg" width="560" alt="NIKHIL - 3D ASCII wordmark"/>
+<table>
+<tr>
+<td valign="top"><img src="./photo-ascii.svg" width="380" alt="Nikhil - ASCII avatar portrait"/></td>
+<td width="24"></td>
+<td valign="top"><img src="./wordmark.svg" width="480" alt="NIKHIL - 3D ASCII wordmark"/></td>
+</tr>
+</table>
 
 <br>
 <br>

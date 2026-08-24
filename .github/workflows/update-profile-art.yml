@@ -36,6 +36,12 @@ jobs:
       - name: Render 3D ASCII wordmark
         run: python scripts/make_wordmark_svg.py --out wordmark.svg
 
+      - name: Fetch GitHub avatar
+        run: python scripts/fetch_avatar.py
+
+      - name: Render ASCII avatar portrait
+        run: python scripts/render_photo_ascii.py
+
       - name: Scrape contribution data (no auth needed)
         run: python scripts/fetch_contributions.py
 
@@ -45,5 +51,5 @@ jobs:
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(profile-art): refresh wordmark + contribution heatmap [skip ci]"
-          file_pattern: "wordmark.svg contrib-heatmap.svg data/contributions.json"
+          commit_message: "chore(profile-art): refresh wordmark + avatar portrait + contribution heatmap [skip ci]"
+          file_pattern: "wordmark.svg photo-ascii.svg contrib-heatmap.svg data/contributions.json data/avatar.jpg"
