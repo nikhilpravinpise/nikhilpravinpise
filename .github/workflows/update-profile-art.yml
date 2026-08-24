@@ -1,0 +1,49 @@
+name: Update profile art
+
+# Regenerates the 3D ASCII wordmark and the contribution heatmap from real
+# GitHub data, daily plus on every push to main.
+
+"on":
+  schedule:
+    - cron: "20 5 * * *" # ~05:20 UTC every day
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-profile-art.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: true
+
+jobs:
+  art:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Render 3D ASCII wordmark
+        run: python scripts/make_wordmark_svg.py --out wordmark.svg
+
+      - name: Scrape contribution data (no auth needed)
+        run: python scripts/fetch_contributions.py
+
+      - name: Render contribution heatmap
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Commit updated art
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(profile-art): refresh wordmark + contribution heatmap [skip ci]"
+          file_pattern: "wordmark.svg contrib-heatmap.svg data/contributions.json"
