@@ -1,11 +1,10 @@
-# GitHub Sponsors configuration
-# Uncomment and add your username if you set up GitHub Sponsors
-# github: N1KH1LT0X1N
+# Funding links shown in the repository's "Sponsor this project" panel.
+# ko_fi handle verified live as of 2026-08-25.
 
-# Other sponsorship platforms (uncomment and add your username)
-patreon: Nikhil_Pise
 ko_fi: nikhil_pise
+
+# Other platforms (uncomment and add your username):
+# github: nikhilpravinpise
+# patreon: your-patreon-handle
 # buy_me_a_coffee: your-buymeacoffee
 # custom: ["https://your-website.com/donate"]
-
-# Note: Remove this file if you don't want to accept sponsorships

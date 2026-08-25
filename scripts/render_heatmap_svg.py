@@ -150,9 +150,10 @@ def render(data):
 
     leg_y = grid_top + art_h + 8
     leg_x = canvas_w - PAD - (len(PALETTE) * CELL + 66)
-    p.append(f'<text x="{leg_x}" y="{leg_y + CELL*0.8:.1f}" fill="{MUTED}" font-size="9.5" text-anchor="end">Less</text>')
+    p.append(f'<text x="{leg_x}" y="{leg_y + CELL*0.8:.1f}" fill="{MUTED}" '
+             f'font-size="9.5" text-anchor="end">Less</text>')
     lx = leg_x + 8
-    for lvl, color in enumerate(PALETTE):
+    for _lvl, color in enumerate(PALETTE):
         p.append(f'<rect x="{lx}" y="{leg_y}" width="{CELL-1}" height="{CELL-1}" rx="2.2" fill="{color}"/>')
         lx += CELL
     p.append(f'<text x="{lx + 4}" y="{leg_y + CELL*0.8:.1f}" fill="{MUTED}" font-size="9.5">More</text>')

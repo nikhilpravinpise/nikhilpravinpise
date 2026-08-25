@@ -5,6 +5,37 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.1.0] - 2026-08-25
+
+Full-repository audit pass: documentation accuracy, workflow hardening, and lint hygiene.
+
+### ✨ Added
+
+- **pyproject.toml** - committed ruff lint configuration (`line-length = 120`, E/F/W/B rules)
+
+### 🔧 Changed
+
+- **Workflows hardened** - all GitHub Actions pinned to exact commit SHAs instead of moving major tags:
+  - `actions/checkout@v4.4.0`
+  - `actions/setup-python@v5.6.0` (plus pip dependency caching)
+  - `stefanzweifel/git-auto-commit-action@v5.2.0`
+  - `actions/first-interaction@v1.3.0`
+- **LICENSE** - copyright year extended through 2026
+- **FUNDING.yml** - removed dead Patreon handle; Ko-fi retained (verified live)
+- **greetings.yml** - quoted `"on":` key for YAML style consistency with the other workflow
+
+### 🐛 Fixed
+
+- **QUICKSTART.md** - rewritten to describe the current repository (was still documenting the retired snake-animation / metrics-workflow setup under the old repo name)
+- **CONTRIBUTING.md** - clone instructions pointed at the old repository name; now follows the fork-then-clone-your-fork flow
+- **greetings.yml** - welcome message linked a relative README path that does not resolve in issue comments
+- **make_wordmark_svg.py** - corrected misleading docstring claim about CSS animation support in GitHub's `<img>` sandbox
+- **scripts/** - resolved all ruff findings (ambiguous variable name, over-long line, unused loop variable)
+
+### 🧹 Removed
+
+- **assets/** - unused placeholder directory whose README described subdirectories that never existed
+
 ## [2.0.0] - 2025-10-31
 
 ### 🎉 Major Overhaul

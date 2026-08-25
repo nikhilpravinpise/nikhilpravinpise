@@ -3,10 +3,10 @@
 Render a word as an extruded 3D block, rasterize the extrusion to ASCII
 characters, and emit the result as an animated SVG.
 
-GitHub's <img> sandbox executes SVG SMIL animation but never JavaScript or
-CSS animation-on-load reliably across renders, so the rock/oscillate motion
-below is done as a flipbook: one pre-rendered ASCII frame per pose, cycled
-with a discrete SMIL <animate> on each frame's opacity.
+GitHub's <img> sandbox executes SVG SMIL animation but never JavaScript,
+so the rock/oscillate motion below is done as a flipbook: one pre-rendered
+ASCII frame per pose, cycled with a discrete SMIL <animate> on each frame's
+opacity (discrete stepping keeps the rotation crisp).
 
 Pipeline: rasterize the text with a bold TTF -> threshold into a boolean
 mask -> build a voxel shell from that mask (front/back caps + boundary
@@ -63,11 +63,11 @@ def build_shell():
     font = ImageFont.truetype(FONT_PATH, font_size)
     for _ in range(40):
         font = ImageFont.truetype(FONT_PATH, font_size)
-        l, t, r, b = font.getbbox(probe)
-        if b - t <= MASK_H:
+        left, top, right, bottom = font.getbbox(probe)
+        if bottom - top <= MASK_H:
             break
         font_size = int(font_size * 0.92)
-    h = b - t
+    h = bottom - top
     track = int(round(TRACKING * font_size))
 
     def word_w(s):
@@ -78,7 +78,7 @@ def build_shell():
     img = Image.new("L", (total_w, total_h), 0)
     d = ImageDraw.Draw(img)
     pen = 4.0
-    base = -t + 4
+    base = -top + 4
     for ch in probe:
         d.text((pen, base), ch, font=font, fill=255)
         pen += font.getlength(ch) + track

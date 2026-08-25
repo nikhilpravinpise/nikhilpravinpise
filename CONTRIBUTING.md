@@ -1,4 +1,4 @@
-# Contributing to N1KH1LT0X1N
+# Contributing
 
 Thank you for your interest in contributing! 🎉
 
@@ -18,9 +18,11 @@ Thank you for your interest in contributing! 🎉
 ### Pull Requests
 
 1. **Fork the Repository**
+
+2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/N1KH1LT0X1N/N1KH1LT0X1N.git
-   cd N1KH1LT0X1N
+   git clone https://github.com/<your-username>/nikhilpravinpise.git
+   cd nikhilpravinpise
    ```
 
 2. **Create a Branch**
