@@ -1,12 +1,12 @@
 {
   "username": "nikhilpravinpise",
-  "generated_at": "2026-09-05T09:06:09Z",
+  "generated_at": "2026-09-06T09:27:30Z",
   "range": {
-    "start": "2025-08-31",
-    "end": "2026-09-05"
+    "start": "2025-09-07",
+    "end": "2026-09-06"
   },
-  "total_contributions": 1043,
-  "active_days": 183,
+  "total_contributions": 1035,
+  "active_days": 180,
   "current_streak": {
     "length": 14,
     "start": "2026-08-23",
@@ -22,34 +22,6 @@
     "count": 40
   },
   "days": [
-    {
-      "date": "2025-08-31",
-      "count": 6
-    },
-    {
-      "date": "2025-09-01",
-      "count": 0
-    },
-    {
-      "date": "2025-09-02",
-      "count": 1
-    },
-    {
-      "date": "2025-09-03",
-      "count": 4
-    },
-    {
-      "date": "2025-09-04",
-      "count": 0
-    },
-    {
-      "date": "2025-09-05",
-      "count": 0
-    },
-    {
-      "date": "2025-09-06",
-      "count": 0
-    },
     {
       "date": "2025-09-07",
       "count": 0
@@ -1504,7 +1476,11 @@
     },
     {
       "date": "2026-09-05",
-      "count": 13
+      "count": 16
+    },
+    {
+      "date": "2026-09-06",
+      "count": 0
     }
   ]
 }
