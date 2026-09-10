@@ -25,7 +25,7 @@
 
 <p><b>Applied AI Engineer · ML Developer</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nikhilpise.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF)](https://www.nikhilpise.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nikhilpise.tech-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF)](https://nikhilpise.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhil--pravin--pise-0d1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/nikhil-pravin-pise)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-T0X1N-0d1117?style=for-the-badge&logoColor=2DD4BF)](https://huggingface.co/T0X1N)
 [![Email](https://img.shields.io/badge/Email-Open_to_Work-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF)](mailto:nikhilpise2006@gmail.com)
