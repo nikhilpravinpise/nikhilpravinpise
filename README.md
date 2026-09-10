@@ -23,7 +23,7 @@
 
 <h3><code>nikhil@github ~ $ ./links.sh</code></h3>
 
-<p><b>Applied AI Engineer</b></p>
+<p><b>Applied AI Engineer · ML Developer</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nikhilpise.me-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF)](https://www.nikhilpise.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhil--pravin--pise-0d1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/nikhil-pravin-pise)
