@@ -11,7 +11,7 @@
 <h3><code>nikhil@github ~ $ whoami</code></h3>
 
 <!-- Keep both cards at the same displayed height; automatic widths preserve their aspect ratios. -->
-<img src="./photo-ascii.svg" height="144" align="top" alt="Nikhil - ASCII avatar portrait"/> <img src="./wordmark.svg" height="144" align="top" alt="NIKHIL - 3D ASCII wordmark"/>
+<img src="./photo-ascii.svg" height="144" align="top" alt="Nikhil - ASCII avatar portrait"/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="./wordmark.svg" height="144" align="top" alt="NIKHIL - 3D ASCII wordmark"/>
 
 <br>
 <br>
