@@ -10,7 +10,8 @@
 
 <h3><code>nikhil@github ~ $ whoami</code></h3>
 
-<img src="./photo-ascii.svg" width="320" align="top" alt="Nikhil - ASCII avatar portrait"/> <img src="./wordmark.svg" width="440" align="top" alt="NIKHIL - 3D ASCII wordmark"/>
+<!-- Keep both cards at the same displayed height; automatic widths preserve their aspect ratios. -->
+<img src="./photo-ascii.svg" height="144" align="top" alt="Nikhil - ASCII avatar portrait"/> <img src="./wordmark.svg" height="144" align="top" alt="NIKHIL - 3D ASCII wordmark"/>
 
 <br>
 <br>
