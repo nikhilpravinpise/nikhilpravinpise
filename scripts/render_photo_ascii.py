@@ -45,6 +45,7 @@ TITLE_TEXT = "#7d8590"
 
 PAD = 18
 TITLEBAR_H = 28
+CARD_H = 318  # Match the wordmark's canvas and terminal chrome.
 
 REVEAL_ROW_STAGGER = 0.035
 REVEAL_ROW_DUR = 0.45
@@ -66,12 +67,13 @@ def to_ascii(path):
 
 
 def emit(rows_txt, cols, rows_n, out):
-    art_w = cols * CELL_W
-    art_h = rows_n * CELL_H
+    art_h = CARD_H - TITLEBAR_H - PAD
+    cell_h = art_h / rows_n
+    art_w = cols * CELL_W * (cell_h / CELL_H)
     canvas_w = art_w + PAD * 2
-    canvas_h = TITLEBAR_H + art_h + PAD
+    canvas_h = CARD_H
     art_top = TITLEBAR_H + PAD * 0.3
-    fs = CELL_H * 0.9
+    fs = cell_h * 0.9
 
     p = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_w:.0f}" height="{canvas_h:.0f}" '
@@ -88,15 +90,15 @@ def emit(rows_txt, cols, rows_n, out):
     for i, dot in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
         p.append(f'<circle cx="{PAD + i*15}" cy="{TITLEBAR_H/2}" r="4.5" fill="{dot}"/>')
     p.append(f'<text x="{canvas_w/2:.0f}" y="{TITLEBAR_H/2 + 4:.0f}" fill="{TITLE_TEXT}" '
-             f'font-size="11.5" text-anchor="middle">nikhil@github: ~$ ./avatar.sh --ascii</text>')
+             f'font-size="11.5" text-anchor="middle">./avatar.sh --ascii</text>')
 
     for ry, line in enumerate(rows_txt):
-        y_top = art_top + ry * CELL_H
-        y_text = y_top + CELL_H * 0.78
+        y_top = art_top + ry * cell_h
+        y_text = y_top + cell_h * 0.78
         begin = ry * REVEAL_ROW_STAGGER
         clip_id = f"prow{ry}"
         p.append(
-            f'<clipPath id="{clip_id}"><rect x="{PAD}" y="{y_top:.1f}" height="{CELL_H:.1f}" width="0">'
+            f'<clipPath id="{clip_id}"><rect x="{PAD}" y="{y_top:.1f}" height="{cell_h:.1f}" width="0">'
             f'<animate attributeName="width" from="0" to="{art_w:.1f}" begin="{begin:.3f}s" '
             f'dur="{REVEAL_ROW_DUR:.2f}s" fill="freeze"/></rect></clipPath>'
         )

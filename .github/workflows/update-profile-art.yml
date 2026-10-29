@@ -42,6 +42,9 @@ jobs:
       - name: Render ASCII avatar portrait
         run: python scripts/render_photo_ascii.py
 
+      - name: Compose aligned profile hero
+        run: python scripts/render_profile_hero.py
+
       - name: Scrape contribution data (no auth needed)
         run: python scripts/fetch_contributions.py
 
@@ -52,4 +55,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(profile-art): refresh wordmark + avatar portrait + contribution heatmap [skip ci]"
-          file_pattern: "wordmark.svg photo-ascii.svg contrib-heatmap.svg data/contributions.json data/avatar.jpg"
+          file_pattern: "wordmark.svg photo-ascii.svg profile-hero.svg contrib-heatmap.svg data/contributions.json data/avatar.jpg"

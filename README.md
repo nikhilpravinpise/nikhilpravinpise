@@ -6,12 +6,13 @@
      its vertical axis via SMIL flipbook). GitHub's <img> sandbox runs SMIL
      and CSS animation-on-load fine, just never JS.
      regenerate: python scripts/fetch_avatar.py && python scripts/render_photo_ascii.py
-                 python scripts/make_wordmark_svg.py --out wordmark.svg -->
+                 python scripts/make_wordmark_svg.py --out wordmark.svg
+                 python scripts/render_profile_hero.py -->
 
 <h3><code>nikhil@github ~ $ whoami</code></h3>
 
-<!-- Keep both cards at the same displayed height; automatic widths preserve their aspect ratios. -->
-<img src="./photo-ascii.svg" height="144" align="top" alt="Nikhil - ASCII avatar portrait"/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="./wordmark.svg" height="144" align="top" alt="NIKHIL - 3D ASCII wordmark"/>
+<!-- One responsive SVG keeps both cards level and equally tall at every viewport width. -->
+<img src="./profile-hero.svg" height="144" alt="Nikhil - ASCII avatar portrait on the left and animated 3D wordmark on the right"/>
 
 <br>
 <br>
